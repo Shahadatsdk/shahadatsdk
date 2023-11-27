@@ -19,7 +19,7 @@
 </center>
 <ul list-style-type="none">
 	<li> PHP </li>
-	<li> Javascript </li>
+	<li> JavaScript </li>
 </ul>
 
 <center>
