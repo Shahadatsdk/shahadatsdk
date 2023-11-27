@@ -49,5 +49,23 @@
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahadatsdk&count_private=true&theme=dark&hide_border=true)
 
+<center>
+	<h2> If you need to contact with me</h2>
+</center>
+<center>
+	<a href="https://www.linkedin.com/in/shahadatsdk/" target="_blank">
+		<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+	</a> &nbsp;
+	<a href="mailto:shahadatsdk@gmail.com" style="text-decoration:none">
+		<img height="30" src ="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+	</a> &nbsp; 
+<!-- 	<a href="https://twitter.com/shahadatsdk" target="_blank">
+		<img height="30" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+	</a> &nbsp; -->
+	<a href="https://www.instagram.com/shahadatsdk/" target="_blank">
+		<img height="30" src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+	</a> &nbsp;
+</center>
+
 
 
