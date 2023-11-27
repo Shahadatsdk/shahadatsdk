@@ -1,6 +1,6 @@
-Hi, Its me, Foysal 👋
+Hi, Its me, Shahadat 👋
 
-Full Stack web developer 💻 | Bangladesh 
+Full Stack Web Developer 💻 | Bangladesh 
 
 Here are some ideas to get you started:
 
