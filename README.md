@@ -69,6 +69,6 @@
 
 <br>
 <br>
-<span>Thanks for visiting. You are  <span>![Visitor Count](https://profile-counter.glitch.me/{shahadatsdk}/count.svg)<span>visitor in my profile </span>
+<span>Thanks for visiting. You are  <span>![Visitor Count](https://profile-counter.glitch.me/{Shahadatsdk}/count.svg)<span>visitor in my profile </span>
 
 
