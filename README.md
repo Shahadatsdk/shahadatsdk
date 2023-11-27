@@ -1,8 +1,8 @@
 <div>
 	<h1 align="center">
-		Hi, Its me, Shahadat ðŸ‘‹ 
+		Hi, Its me, Shahadat 👋
 	</h1> 
-	<p align="center"> Full Stack Web Developer ðŸ’» | Bangladesh </p>
+	<p align="center"> Full Stack Web Developer 💻 | Bangladesh </p>
 </div>
 
 <center>
