@@ -17,3 +17,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<center>
+	<h3>Prefer Technology </h3>
+</center>
+<ul list-style-type="none">
+	<li> PHP </li>
+	<li> Javascript </li>
+</ul>
