@@ -28,3 +28,26 @@
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadatsdk&custom_title=Last%2030%20Days%20Activity&theme=vue&hide_border=true)
 
+<center>
+	<h3>GitHub Stats </h3>
+</center>
+
+<div>
+
+<a>
+	<img align="left" width=45% src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahadatsdk&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+
+<a>
+	<img align="right" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=shahadatsdk&theme=dark&hide_border=true" alt="shahadatsdk" />
+</a>
+
+
+</div>
+
+ <br><br><br><br><br><br><br><br><br>
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahadatsdk&count_private=true&theme=dark&hide_border=true)
+
+
+
