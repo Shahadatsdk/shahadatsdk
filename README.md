@@ -9,7 +9,7 @@
 	<h3>About me </h3>
 </center>
 
-- 🔭 I’m currently working on ... a couple of interesting Finance based project
+- 🔭 I’m currently working on ... a couple of interesting project
 - 🌱 I’m currently learning ... so many things
 - 📫 How to reach me: You will find some social media links and my email below to contact me.
 - 😄 Pronouns: He/ Him
@@ -67,5 +67,8 @@
 	</a> &nbsp;
 </center>
 
+<br>
+<br>
+<span>Thanks for visiting. You are  <span>![Visitor Count](https://profile-counter.glitch.me/{shahadatsdk}/count.svg)<span>visitor in my profile </span>
 
 
