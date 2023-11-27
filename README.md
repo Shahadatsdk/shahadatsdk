@@ -1,6 +1,13 @@
-Hi, Its me, Shahadat 👋
+<div>
+	<h1 align="center">
+		Hi, Its me, Shahadat ðŸ‘‹ 
+	</h1> 
+	<p align="center"> Full Stack Web Developer ðŸ’» | Bangladesh </p>
+</div>
 
-Full Stack Web Developer 💻 | Bangladesh 
+<center>
+	<h3>About me </h3>
+</center>
 
 Here are some ideas to get you started:
 
